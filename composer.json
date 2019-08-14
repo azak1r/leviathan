@@ -13,6 +13,7 @@
         "fideloper/proxy": "^4.0",
         "illuminate/database": "^5.8",
         "illuminate/events": "^5.8",
+        "joshbrw/laravel-module-installer": "^0.1.4",
         "laravel/framework": "5.8.*",
         "laravel/tinker": "^1.0",
         "nwidart/laravel-modules": "^5.0",
