@@ -67,7 +67,7 @@ return [
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
-            'model' => App\User::class, //Needs to be adjusted to correct user path in future
+            'model' => Leviathan\User::class, //Needs to be adjusted to correct user path in future
         ],
 
         // 'users' => [
